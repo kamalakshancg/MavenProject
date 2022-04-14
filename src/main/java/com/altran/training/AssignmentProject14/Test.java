@@ -42,7 +42,7 @@ public class Test
 	{
 		
 		Scanner sc = new Scanner(System.in);
-	        int check = 10;
+	        int check = 20;
 	
 		while (true)
 		{
